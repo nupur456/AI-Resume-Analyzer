@@ -1,4 +1,4 @@
-
+![image](http://localhost:8501/media/a61e2508e0ca91eb0f66dc99558c389cb8e9125e7a1a0ff9063e1d80.png)
 About the Project 🥱
 A tool which parses information from a resume using natural language processing and finds the keywords, cluster them onto sectors based on their keywords. And lastly show recommendations, predictions, analytics to the applicant / recruiter based on keyword matching.
 
